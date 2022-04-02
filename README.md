@@ -1,4 +1,4 @@
-## Shopinfinity 
+## ShopInfinity 
 E-Commerce Website
 
 #### Background
